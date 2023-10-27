@@ -3,9 +3,15 @@ Tools and code used for GROMACS during my research stay as a PACK Fellow.
 
 ## Python
 Contains Python Scripts
+---Conversion---
 - cgenff_charmm2gmx_py3.py - python3 version of cgenff_charmm2gmx
 
-
+---Plotting---
+- bonds.py
+- angles.py
+- dihedrals.py
+- gyration.py
+- ramachandran.py
 
 # PACK Information
 Host :
