@@ -16,20 +16,12 @@ Contains Python Scripts
 
 # PACK Information
 Host :
+- Prof. Dr. Zeynep Altintas
+- Bioinspired Materials and Biosensor Technologies
+- https://www.tf.uni-kiel.de/matwis/bmbt/en/research
 
-Prof. Dr. Zeynep Altintas
-
-Bioinspired Materials and Biosensor Technologies
-
-https://www.tf.uni-kiel.de/matwis/bmbt/en/research
-
-
-PACK International Research Experience Fellowship
-
-Pennsylvania State University
-
-Kiel University (Christian Albrechts University)
-
-http://packfellowship.org/
-
-NSF Award #1829573
+PACK International Research Experience Fellowship :
+- Pennsylvania State University
+- Kiel University (Christian Albrechts University)
+- http://packfellowship.org/
+- NSF Award #1829573
